@@ -3,12 +3,6 @@
 [Website](https://simonecoughlan.netlify.app/)
 
 
-![ ](https://github.com/coughls/coughls/blob/master/github_readme_image.png)
-
-
-*Background image [credit](https://unsplash.com/photos/q10VITrVYUM)*
-
-
 
 <!--
 **coughls/coughls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
